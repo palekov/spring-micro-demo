@@ -1,4 +1,4 @@
-package ru.javabegin.micro.demo.githubconfigserver;
+package com.palekov.micro.demo.githubconfigserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

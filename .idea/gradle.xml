@@ -22,10 +22,14 @@
                   <project path="$PROJECT_DIR$/api-gateway" />
                 </projects>
               </build>
+              <build path="$PROJECT_DIR$/github-config-server" name="github-config-server">
+                <projects>
+                  <project path="$PROJECT_DIR$/github-config-server" />
+                </projects>
+              </build>
             </builds>
           </compositeBuild>
         </compositeConfiguration>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
@@ -33,6 +37,7 @@
             <option value="$PROJECT_DIR$/api-gateway" />
             <option value="$PROJECT_DIR$/eureka-client" />
             <option value="$PROJECT_DIR$/eureka-server" />
+            <option value="$PROJECT_DIR$/github-config-server" />
           </set>
         </option>
       </GradleProjectSettings>
