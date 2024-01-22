@@ -1,5 +1,5 @@
 # spring-micro-demo
-This is an internship project to actualize and improove Java developing skills.
+This is an internship project to actualize and improve Java developing skills.
 The following technologies are used:
 - Multi-module Gradle project;
 - Java 11;
@@ -7,4 +7,3 @@ The following technologies are used:
 - Build-in Tomcat server;
 - Spring cloud Eureka server container;
 
-  git
